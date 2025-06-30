@@ -1,0 +1,792 @@
+{
+  "BookingTable": [
+    {
+      "id": "a49a",
+      "username": "Swapna",
+      "mobile": "9676840446",
+      "email": "kakarapalli.swapna@gmail.com",
+      "tables": "1",
+      "message": "I'm booking the table for a meeting"
+    },
+    {
+      "id": "5ae1",
+      "username": "Varalakshmi\t",
+      "mobile": "9876543210",
+      "email": "abcd@gmail.com",
+      "tables": "5",
+      "message": "Family enjoyment"
+    },
+    {
+      "id": "c022",
+      "username": "Srujana",
+      "mobile": "7418529630",
+      "email": "sujji@gmail.com",
+      "tables": "20",
+      "message": "Party"
+    },
+    {
+      "id": "4c49",
+      "username": "siri",
+      "mobile": "8697451320",
+      "email": "siri@gmail.com",
+      "tables": "1",
+      "message": ""
+    },
+    {
+      "id": "4388",
+      "username": "",
+      "mobile": "",
+      "email": "",
+      "tables": "",
+      "message": ""
+    }
+  ],
+  "RestaurantMenu": [
+    {
+      "id": "26b9",
+      "banner": "https://media-assets.swiggy.com/swiggy/image/upload/f_auto,q_auto,fl_lossy/xopldhrgqif4fzxka2ve",
+      "categories": "Tiffins",
+      "item": "Idly",
+      "price": "40",
+      "description": "Idli is a traditional South Indian breakfast food or snack made from a batter of fermented rice and lentils that's steamed into small cakes. "
+    },
+    {
+      "id": "6448",
+      "banner": "https://media-assets.swiggy.com/swiggy/image/upload/f_auto,q_auto,fl_lossy/vysflutg4nvnjvocjakm",
+      "categories": "Tiffins",
+      "item": "Plain Dosa",
+      "price": "45",
+      "description": "Dosa is a thin, savory crepe that originated in South India and is made from a fermented batter of rice and black lentils. "
+    },
+    {
+      "id": "d51e",
+      "banner": "https://static.toiimg.com/thumb/54289752.cms?imgsize=495844&width=800&height=800",
+      "categories": "Tiffins",
+      "item": "Masala Dosa",
+      "price": "60",
+      "description": "Masala is loosely translated as “spice” and although there are many varieties and preferences masala is typically made up of 5 spices. Cardamom, cinnamon, coriander, cloves and cumin are mixed together to make an aromatic and flavour profile."
+    },
+    {
+      "id": "9ddb",
+      "banner": "https://images.squarespace-cdn.com/content/v1/66333a6980969d1b4b389d72/1717354628145-S6UM5OL5540HT528NFGF/OnionDosa.jpeg?format=1500w",
+      "categories": "Tiffins",
+      "item": "Onion Dosa",
+      "price": "60",
+      "description": ""
+    },
+    {
+      "id": "2673",
+      "banner": "https://cdn.cdnparenting.com/articles/2020/02/26144721/PURI-BHAJI-RECIPE.webp",
+      "categories": "Tiffins",
+      "item": "Puri",
+      "price": "60",
+      "description": "Puri is a deep-fried flatbread that originated in the Indian subcontinent and is commonly eaten for breakfast or snacks."
+    },
+    {
+      "id": "9dbb",
+      "banner": "https://yennadosa.com/wp-content/uploads/2024/05/meduvada.png",
+      "categories": "Tiffins",
+      "item": "Vada",
+      "price": "40",
+      "description": "In Indian cookery: a dish made from potato or ground pulses, typically chickpeas or lentils, shaped into a ball or ring, deep-fried, and usually served with chutney."
+    },
+    {
+      "id": "ee10",
+      "banner": "https://www.maggi.in/sites/default/files/styles/home_stage_944_531/public/srh_recipes/5f1439c480c484bacc2fcc13ac018173.jpg?h=d64a38ff&itok=2Z2M-eTD",
+      "categories": "Tiffins",
+      "item": "Upma",
+      "price": "30",
+      "description": "Upma is typically made by first lightly dry roasting semolina (called rava or sooji in India)."
+    },
+    {
+      "id": "77f3",
+      "banner": "https://madscookhouse.com/wp-content/uploads/2021/09/Masala-Oats-Upma.jpg",
+      "categories": "Tiffins",
+      "item": "Oats upma",
+      "price": "80",
+      "description": "A quick and healthy breakfast made with oats, herbs and basic spices. This recipe can be made using rolled oats or quick instant oats."
+    },
+    {
+      "id": "b7f9",
+      "banner": "https://vaya.in/recipes/wp-content/uploads/2018/03/Barley-Rava-Idli.jpg",
+      "categories": "Tiffins",
+      "item": "Rava idli",
+      "price": "60",
+      "description": "Rava idli (also rave idli) is a variation of the popular South Indian breakfast item idli, made with rava (coarse ground wheat or rice), Bombay rava, semolina or rice rava."
+    },
+    {
+      "id": "ec58",
+      "banner": "https://res.cloudinary.com/roundglass/image/upload/w_1400,f_auto/v1697469276/rg/collective/media/rg-food-in-upma-pesarattu-rakesh-raghunathan-may2022-001-16x9-1697469275094.jpg",
+      "categories": "Tiffins",
+      "item": "pesarattu",
+      "price": "40",
+      "description": "Pesarattu is a thin breakfast crepe made with green gram, ginger, cumin & chilies."
+    },
+    {
+      "id": "833f",
+      "banner": "https://img.taste.com.au/56r_iNcB/w720-h480-cfill-q80/taste/2016/11/indian-style-vegetable-curry-59371-1.jpeg",
+      "categories": "Curries",
+      "item": "Vegetable Curry",
+      "price": "50",
+      "description": ""
+    },
+    {
+      "id": "8155",
+      "banner": "https://images.getrecipekit.com/20210913130056-paneer-butter-masala-curry-recipe.jpeg?aspect_ratio=16:9&quality=90",
+      "categories": "Curries",
+      "item": "Paneer Butter Masala",
+      "price": "150",
+      "description": ""
+    },
+    {
+      "id": "3753",
+      "banner": "https://c.ndtvimg.com/2023-12/efrl2jm8_chicken-curry_625x300_24_December_23.jpg",
+      "categories": "Curries",
+      "item": "Chicken Curry",
+      "price": "150",
+      "description": ""
+    },
+    {
+      "id": "1add",
+      "banner": "https://i0.wp.com/www.bharatzkitchen.com/wp-content/uploads/2018/11/mutton-curry-thumb.jpg?fit=800%2C450&ssl=1",
+      "categories": "Curries",
+      "item": "Mutton Curry",
+      "price": "200",
+      "description": ""
+    },
+    {
+      "id": "5a5c",
+      "banner": "https://vismaifood.com/storage/app/uploads/public/daa/96d/7bc/thumb__1200_0_0_0_auto.jpg",
+      "categories": "Curries",
+      "item": "Fish Curry",
+      "price": "100",
+      "description": ""
+    },
+    {
+      "id": "656e",
+      "banner": "https://theartisticcook.com/wp-content/uploads/2024/01/Vegetablebiryani1.jpg",
+      "categories": "Biryanis",
+      "item": "Vegetable Biryani",
+      "price": "250",
+      "description": ""
+    },
+    {
+      "id": "ae30",
+      "banner": "https://i.ytimg.com/vi/oskLFFcvhGI/maxresdefault.jpg",
+      "categories": "Biryanis",
+      "item": "Chicken Biryani",
+      "price": "250",
+      "description": ""
+    },
+    {
+      "id": "fdf9",
+      "banner": "https://theyummydelights.com/wp-content/uploads/2018/09/mutton-biryani-recipe.jpg",
+      "categories": "Biryanis",
+      "item": "Mutton Biryani",
+      "price": "350",
+      "description": ""
+    },
+    {
+      "id": "907d",
+      "banner": "https://cdn.shopify.com/s/files/1/0585/7578/2045/files/29-MOUTH-WATERING_MALABAR_PRAWN_BIRYANI_COMP.jpg?v=1671535503",
+      "categories": "Biryanis",
+      "item": "Prawn Biryani",
+      "price": "350",
+      "description": ""
+    },
+    {
+      "id": "cc4f",
+      "banner": "https://static.toiimg.com/thumb/52397749.cms?imgsize=299414&width=800&height=800",
+      "categories": "Biryanis",
+      "item": "Egg Biryani",
+      "price": "250",
+      "description": ""
+    },
+    {
+      "id": "b7cf",
+      "banner": "https://onestophalal.com/cdn/shop/articles/fish_biryani-1701906057159_1200x.jpg?v=1701906108",
+      "categories": "Biryanis",
+      "item": "Fish Biryani",
+      "price": "250",
+      "description": ""
+    },
+    {
+      "id": "9c7d",
+      "banner": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/11/gulab-jamun.jpg",
+      "categories": "Desserts",
+      "item": "Gulab Jamun",
+      "price": "150",
+      "description": ""
+    },
+    {
+      "id": "e733",
+      "banner": "https://cdn.prod.website-files.com/5e9ebc3fff165933f19fbdbe/61b31c9d289e22335b6753b2_Ice%20Cream%202.jpg",
+      "categories": "Desserts",
+      "item": "Ice Cream",
+      "price": "100",
+      "description": ""
+    },
+    {
+      "id": "7181",
+      "banner": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/moumita.malla-gmail.com/traditional_rasmalai_recipe.jpg",
+      "categories": "Desserts",
+      "item": "Rasmalai",
+      "price": "70",
+      "description": ""
+    },
+    {
+      "id": "5394",
+      "banner": "https://www.kaipunnyam.com/cdn/shop/files/semiya.jpg?v=1724499053",
+      "categories": "Desserts",
+      "item": "Payasam",
+      "price": "50",
+      "description": ""
+    },
+    {
+      "id": "e19e",
+      "banner": "https://preppykitchen.com/wp-content/uploads/2023/08/No-Bake-Cheesecake-R-Recipe-Card-500x375.jpg",
+      "categories": "Desserts",
+      "item": "Cheesecake",
+      "price": "200",
+      "description": ""
+    },
+    {
+      "id": "5a8e",
+      "banner": "https://cdn.loveandlemons.com/wp-content/uploads/2023/01/tomato-soup-recipe.jpg",
+      "categories": "Soups",
+      "item": "Tomato Soup",
+      "price": "120",
+      "description": ""
+    },
+    {
+      "id": "1f33",
+      "banner": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYHrxtei2uN-ZVwNBL694XpYbbCDUZ0ACyaw&s",
+      "categories": "Soups",
+      "item": "Sweet Corn Soup",
+      "price": "120",
+      "description": ""
+    },
+    {
+      "id": "04a0",
+      "banner": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz6bxlegNTvRSuirxgePHGj3DhrIg8P5Z9wQ&s",
+      "categories": "Soups",
+      "item": "Hot and Sour Soup",
+      "price": "120",
+      "description": ""
+    },
+    {
+      "id": "683c",
+      "banner": "https://www.allrecipes.com/thmb/tsYjt2ZS_BFH62uEiOZS5rW-TfA=/0x512/filters:no_upscale():max_bytes(150000):strip_icc()/8814-homemade-chicken-soup-DDMFS-beauty-4x3-31640-924adc63a78543a7822c5704727f6e4b.jpg",
+      "categories": "Soups",
+      "item": "Chicken Soup",
+      "price": "350",
+      "description": ""
+    },
+    {
+      "id": "6a7b",
+      "banner": "https://s3-ap-south-1.amazonaws.com/betterbutterbucket-silver/naheed-alam20181222224303117.jpeg",
+      "categories": "Soups",
+      "item": "Mutton Bone Soup",
+      "price": "350",
+      "description": ""
+    },
+    {
+      "id": "73cc",
+      "banner": "https://static.toiimg.com/thumb/61050397.cms?imgsize=246859&width=800&height=800",
+      "categories": "Snacks",
+      "item": "Samosa",
+      "price": "50",
+      "description": ""
+    },
+    {
+      "id": "93bc",
+      "banner": "https://static01.nyt.com/images/2024/07/25/multimedia/ND-Pakorarex-clfq/ND-Pakorarex-clfq-googleFourByThree.jpg",
+      "categories": "Snacks",
+      "item": "Pakora",
+      "price": "50",
+      "description": ""
+    },
+    {
+      "id": "70bf",
+      "banner": "https://saltedmint.com/wp-content/uploads/2024/01/Vegetable-Spring-Rolls-4.jpg",
+      "categories": "Snacks",
+      "item": "Spring Rolls",
+      "price": "50",
+      "description": ""
+    },
+    {
+      "id": "69c9",
+      "banner": "https://www.kuchpakrahahai.in/wp-content/uploads/2023/05/Air-fried-french-fries.jpg",
+      "categories": "Snacks",
+      "item": "French Fries",
+      "price": "50",
+      "description": ""
+    },
+    {
+      "id": "2b36",
+      "banner": "https://www.licious.in/blog/wp-content/uploads/2020/12/Baked-Chicken-Nuggets-750x750.jpg",
+      "categories": "Snacks",
+      "item": "Chicken Nuggets",
+      "price": "50",
+      "description": ""
+    },
+    {
+      "id": "5781",
+      "banner": "https://ikneadtoeat.com/wp-content/uploads/2019/01/Masala-Chai-Recipe-1.jpg",
+      "categories": "Drinks",
+      "item": "Tea",
+      "price": "50",
+      "description": ""
+    },
+    {
+      "id": "3690",
+      "banner": "https://www.royalcupcoffee.com/sites/default/files/images/blog/AdobeStock_159183621update.jpg",
+      "categories": "Drinks",
+      "item": "Coffee",
+      "price": "50",
+      "description": ""
+    },
+    {
+      "id": "60fc",
+      "banner": "https://s7ap1.scene7.com/is/image/itcportalstage/fruit-juices-for-health?fmt=webp-alpha",
+      "categories": "Drinks",
+      "item": "Fresh Juices",
+      "price": "50",
+      "description": ""
+    },
+    {
+      "id": "9551",
+      "banner": "https://www.biggerbolderbaking.com/wp-content/uploads/2015/05/BBB71-Homemade-Ice-Cream-Milkshakes-Thumbnail-v.1.jpg",
+      "categories": "Drinks",
+      "item": "Milkshakes",
+      "price": "50",
+      "description": ""
+    },
+    {
+      "id": "ca80",
+      "banner": "https://images.herzindagi.info/image/2023/Mar/mocktails-recipes.jpg",
+      "categories": "Drinks",
+      "item": "Mocktails",
+      "price": "50",
+      "description": ""
+    },
+    {
+      "id": "7441",
+      "banner": "https://media.assettype.com/homegrown%2Fimport%2Ffacebook-19601-Deluxe-www.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "categories": "Meals",
+      "item": "South Indian Meals (Rice, Sambar, Rasam, etc.)",
+      "price": "90",
+      "description": ""
+    },
+    {
+      "id": "61d8",
+      "banner": "https://img-global.cpcdn.com/recipes/4e6759e54cbfedc2/1200x630cq70/photo.jpg",
+      "categories": "Meals",
+      "item": "North Indian Thali",
+      "price": "90",
+      "description": ""
+    },
+    {
+      "id": "a112",
+      "banner": "https://www.cookinwithmima.com/wp-content/uploads/2022/05/chinese-vegetarian-fried-rice.jpg",
+      "categories": "Meals",
+      "item": "Chinese Fried Rice",
+      "price": "90",
+      "description": ""
+    },
+    {
+      "id": "03b0",
+      "banner": "https://www.recipetineats.com/tachyon/2023/09/Garlic-noodles-with-egg-close-up.jpg?resize=500%2C500",
+      "categories": "Meals",
+      "item": "Noodles",
+      "price": "90",
+      "description": ""
+    },
+    {
+      "id": "1e67",
+      "banner": "https://thefriendlyepicurean.com/wp-content/uploads/2020/06/img_5490.jpg",
+      "categories": "Meals",
+      "item": "Chapati with Curry",
+      "price": "90",
+      "description": ""
+    },
+    {
+      "id": "a550",
+      "banner": "https://www.cookwithkushi.com/wp-content/uploads/2023/02/tandoori_paneer_tikka_restaurant_style-500x500.jpg",
+      "categories": "Starters",
+      "item": "Paneer Tikka",
+      "price": "90",
+      "description": ""
+    },
+    {
+      "id": "0a06",
+      "banner": "https://glebekitchen.com/wp-content/uploads/2016/12/chickentikkakebab.jpg",
+      "categories": "Starters",
+      "item": "Chicken Tikka",
+      "price": "90",
+      "description": ""
+    },
+    {
+      "id": "2802",
+      "banner": "https://palatesdesire.com/wp-content/uploads/2022/09/dry-gobi-manchurian-recipe@palates-desire.jpg",
+      "categories": "Starters",
+      "item": "Gobi Manchurian",
+      "price": "90",
+      "description": ""
+    },
+    {
+      "id": "83ae",
+      "banner": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOBktOX2W3Ftu25FJJBTyZrwcL4C-INvPOeg&s",
+      "categories": "Starters",
+      "item": "Chicken Wings",
+      "price": "90",
+      "description": ""
+    },
+    {
+      "id": "80dc",
+      "banner": "https://www.foodie-trail.com/wp-content/uploads/2021/09/PHOTO-2021-09-17-15-47-52_1-rotated.jpg",
+      "categories": "Starters",
+      "item": "Crispy Corn",
+      "price": "90",
+      "description": ""
+    },
+    {
+      "id": "4cfb",
+      "banner": "https://www.recipetineats.com/tachyon/2021/08/Garden-Salad_47-SQ.jpg",
+      "categories": "Salads",
+      "item": "Green Salad",
+      "price": "90",
+      "description": ""
+    },
+    {
+      "id": "b1a2",
+      "banner": "https://natashaskitchen.com/wp-content/uploads/2019/01/Caesar-Salad-Recipe-3.jpg",
+      "categories": "Salads",
+      "item": "Caesar Salad",
+      "price": "90",
+      "description": ""
+    },
+    {
+      "id": "fb46",
+      "banner": "https://images.themodernproper.com/billowy-turkey/production/posts/GreekSalad_9.jpg?w=960&h=960&q=82&fm=jpg&fit=crop&dm=1718650734&s=38ef48369e3f551946c593da6b2b0a01",
+      "categories": "Salads",
+      "item": "Greek Salad",
+      "price": "90",
+      "description": ""
+    },
+    {
+      "id": "54fb",
+      "banner": "https://leelalicious.com/wp-content/uploads/2019/05/Tropical-Fruit-Salad-Recipes-500x500.jpg",
+      "categories": "Salads",
+      "item": "Fruit Salad",
+      "price": "90",
+      "description": ""
+    },
+    {
+      "id": "15a2",
+      "banner": "https://www.indianhealthyrecipes.com/wp-content/uploads/2022/04/sprouts-salad-recipe.jpg",
+      "categories": "Salads",
+      "item": "Sprouts Salad",
+      "price": "90",
+      "description": ""
+    },
+    {
+      "id": "b39f",
+      "banner": "https://content.kegworks.com/hs-fs/hubfs/Imported_Blog_Media/kegworks-bitters-and-soda-pairing-guide-6-429x600-2.jpg?width=429&height=600&name=kegworks-bitters-and-soda-pairing-guide-6-429x600-2.jpg",
+      "categories": "Beverages",
+      "item": "Soda",
+      "price": "90",
+      "description": ""
+    },
+    {
+      "id": "d2eb",
+      "banner": "https://www.foodiecrush.com/wp-content/uploads/2022/06/Lemonade-foodiecrush.com-9-1.jpg",
+      "categories": "Beverages",
+      "item": "Lemonade",
+      "price": "90",
+      "description": ""
+    },
+    {
+      "id": "dc0f",
+      "banner": "https://cdn.britannica.com/33/206333-050-598A0208/sodas-plastic-cups-ice-straws.jpg",
+      "categories": "Beverages",
+      "item": "Soft Drinks",
+      "price": "90",
+      "description": ""
+    },
+    {
+      "id": "b26f",
+      "banner": "https://simply-delicious-food.com/wp-content/uploads/2019/05/home-made-iced-tea-6-2.jpg",
+      "categories": "Beverages",
+      "item": "Iced Tea",
+      "price": "90",
+      "description": ""
+    },
+    {
+      "id": "1942",
+      "banner": "https://images.healthshots.com/healthshots/en/uploads/2021/12/15184820/Smoothies.jpg",
+      "categories": "Beverages",
+      "item": "Smoothies",
+      "price": "90",
+      "description": ""
+    },
+    {
+      "id": "deba",
+      "banner": "https://img.freepik.com/premium-photo/chef-preparing-glossy-dish-world-food-day-celebration-gourmet-kitchen_980716-479325.jpg?w=360",
+      "categories": "Specials",
+      "item": "Chef’s Special Dish of the Day",
+      "price": "200",
+      "description": ""
+    },
+    {
+      "id": "a534",
+      "banner": "https://www.mashed.com/img/gallery/seasonal-fast-food-items-and-when-you-can-get-them/l-intro-1682616286.jpg",
+      "categories": "Specials",
+      "item": "Seasonal Items",
+      "price": "200",
+      "description": ""
+    },
+    {
+      "id": "108f",
+      "banner": "https://clubmahindra.gumlet.io/blog/media/section_images/holifood-d-f976602cf302f8e.jpg?w=376&dpr=2.6",
+      "categories": "Specials",
+      "item": "Festival Special Foods",
+      "price": "200",
+      "description": ""
+    },
+    {
+      "id": "5999",
+      "banner": "https://assets.epicurious.com/photos/5c745a108918ee7ab68daf79/1:1/w_2560%2Cc_limit/Smashburger-recipe-120219.jpg",
+      "categories": "Fast Foods",
+      "item": "Burgers",
+      "price": "200",
+      "description": ""
+    },
+    {
+      "id": "d20e",
+      "banner": "https://www.southernliving.com/thmb/UW4kKKL-_M3WgP7pkL6Pb6lwcgM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Ham_Sandwich_011-1-49227336bc074513aaf8fdbde440eafe.jpg",
+      "categories": "Fast Foods",
+      "item": "Sandwiches",
+      "price": "200",
+      "description": ""
+    },
+    {
+      "id": "0b58",
+      "banner": "https://cdn.loveandlemons.com/wp-content/uploads/2023/02/vegetarian-pizza.jpg",
+      "categories": "Fast Foods",
+      "item": "Pizza",
+      "price": "200",
+      "description": ""
+    },
+    {
+      "id": "d417",
+      "banner": "https://eatplant-based.com/wp-content/uploads/2014/12/Veggie-Wraps-500x375.jpg",
+      "categories": "Fast Foods",
+      "item": "Wraps",
+      "price": "200",
+      "description": ""
+    },
+    {
+      "id": "4398",
+      "banner": "https://images.themodernproper.com/billowy-turkey/production/posts/HotDogToppings_7.jpg?w=1200&h=1200&q=60&fm=jpg&fit=crop&dm=1691006985&s=2aed2c6a11a585395332775227ca1c59",
+      "categories": "Fast Foods",
+      "item": "Hot Dogs",
+      "price": "200",
+      "description": ""
+    },
+    {
+      "id": "5802",
+      "banner": "https://www.indianhealthyrecipes.com/wp-content/uploads/2022/02/hyderabadi-biryani-recipe-chicken-500x375.jpg",
+      "categories": "Regional Specials",
+      "item": "Hyderabadi Biryani",
+      "price": "200",
+      "description": ""
+    },
+    {
+      "id": "14a6",
+      "banner": "https://swatisani.net/kitchen/wp-content/uploads/2015/10/IMG_9350.jpg",
+      "categories": "Regional Specials",
+      "item": "Chettinad Chicken",
+      "price": "200",
+      "description": ""
+    },
+    {
+      "id": "948d",
+      "banner": "https://www.sinamontales.com/dotcord/uploads/2013/03/rui-maacher-jhol-bengali-style-rohu-fish-curry-recipe.1024x1024.jpg",
+      "categories": "Regional Specials",
+      "item": "Bengali Fish Curry",
+      "price": "200",
+      "description": ""
+    },
+    {
+      "id": "d451",
+      "banner": "https://annasfamilykitchen.com/wp-content/uploads/2019/02/goan-prawn-2.jpg",
+      "categories": "Regional Specials",
+      "item": "Goan Prawn Curry",
+      "price": "200",
+      "description": ""
+    },
+    {
+      "id": "c841",
+      "banner": "https://i0.wp.com/myspicetrunk.com/wp-content/uploads/2021/04/20210410_1838302-e1618165098812.jpg?fit=2070%2C2760&ssl=1?v=1618099124",
+      "categories": "Regional Specials",
+      "item": "Kashmiri Dum Aloo",
+      "price": "200",
+      "description": ""
+    },
+    {
+      "id": "57e0",
+      "banner": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Pani_Puri1.JPG",
+      "categories": "Street Foods",
+      "item": "Pani Puri",
+      "price": "200",
+      "description": ""
+    },
+    {
+      "id": "eb65",
+      "banner": "https://www.madhuseverydayindian.com/wp-content/uploads/2021/05/chana-chaat-with-yogurt-500x375.jpg",
+      "categories": "Street Foods",
+      "item": "Chaat",
+      "price": "200",
+      "description": ""
+    },
+    {
+      "id": "80d1",
+      "banner": "https://www.cubesnjuliennes.com/wp-content/uploads/2020/07/Instant-Pot-Mumbai-Pav-Bhaji-Recipe.jpg",
+      "categories": "Street Foods",
+      "item": "Pav Bhaji",
+      "price": "200",
+      "description": ""
+    },
+    {
+      "id": "cdb1",
+      "banner": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Vada_Pav-Indian_street_food.JPG/800px-Vada_Pav-Indian_street_food.JPG",
+      "categories": "Street Foods",
+      "item": "Vada Pav",
+      "price": "200",
+      "description": ""
+    },
+    {
+      "id": "df9a",
+      "banner": "https://www.mygingergarlickitchen.com/wp-content/rich-markup-images/16x9/16x9-steamed-veg-momos-spicy-chili-chutney-vegetable-momos-recipe-video.jpg",
+      "categories": "Street Foods",
+      "item": "Momos",
+      "price": "200",
+      "description": ""
+    }
+  ],
+  "Orders": [
+    {
+      "id": "92f1",
+      "items": [
+        {
+          "id": "dc0f",
+          "banner": "https://cdn.britannica.com/33/206333-050-598A0208/sodas-plastic-cups-ice-straws.jpg",
+          "categories": "Beverages",
+          "item": "Soft Drinks",
+          "price": "90",
+          "description": "",
+          "quantity": 2
+        }
+      ],
+      "total": 180,
+      "timestamp": "2024-12-08T23:54:02.076Z"
+    },
+    {
+      "id": "46ab",
+      "items": [
+        {
+          "id": "7441",
+          "banner": "https://media.assettype.com/homegrown%2Fimport%2Ffacebook-19601-Deluxe-www.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+          "categories": "Meals",
+          "item": "South Indian Meals (Rice, Sambar, Rasam, etc.)",
+          "price": "90",
+          "description": "",
+          "quantity": 1
+        }
+      ],
+      "total": 90,
+      "timestamp": "2024-12-08T23:54:45.683Z"
+    },
+    {
+      "id": "7ec6",
+      "items": [
+        {
+          "id": "70bf",
+          "banner": "https://saltedmint.com/wp-content/uploads/2024/01/Vegetable-Spring-Rolls-4.jpg",
+          "categories": "Snacks",
+          "item": "Spring Rolls",
+          "price": "50",
+          "description": "",
+          "quantity": 1
+        }
+      ],
+      "total": 50,
+      "timestamp": "2024-12-09T00:06:56.794Z"
+    },
+    {
+      "id": "3e8d",
+      "items": [
+        {
+          "id": "c841",
+          "banner": "https://i0.wp.com/myspicetrunk.com/wp-content/uploads/2021/04/20210410_1838302-e1618165098812.jpg?fit=2070%2C2760&ssl=1?v=1618099124",
+          "categories": "Regional Specials",
+          "item": "Kashmiri Dum Aloo",
+          "price": "200",
+          "description": "",
+          "quantity": 2
+        }
+      ],
+      "total": 400,
+      "timestamp": "2024-12-09T00:10:35.322Z"
+    },
+    {
+      "id": "cb83",
+      "items": [
+        {
+          "id": "0b58",
+          "banner": "https://cdn.loveandlemons.com/wp-content/uploads/2023/02/vegetarian-pizza.jpg",
+          "categories": "Fast Foods",
+          "item": "Pizza",
+          "price": "200",
+          "description": "",
+          "quantity": 1
+        }
+      ],
+      "total": 200,
+      "timestamp": "2024-12-10T00:30:03.886Z"
+    },
+    {
+      "id": "ca48",
+      "items": [
+        {
+          "id": "4cfb",
+          "banner": "https://www.recipetineats.com/tachyon/2021/08/Garden-Salad_47-SQ.jpg",
+          "categories": "Salads",
+          "item": "Green Salad",
+          "price": "90",
+          "description": "",
+          "quantity": 1
+        }
+      ],
+      "total": 90,
+      "timestamp": "2024-12-10T00:30:52.285Z"
+    },
+    {
+      "id": "7cc2",
+      "items": [
+        {
+          "id": "6448",
+          "banner": "https://media-assets.swiggy.com/swiggy/image/upload/f_auto,q_auto,fl_lossy/vysflutg4nvnjvocjakm",
+          "categories": "Tiffins",
+          "item": "Plain Dosa",
+          "price": "45",
+          "description": "Dosa is a thin, savory crepe that originated in South India and is made from a fermented batter of rice and black lentils. ",
+          "quantity": 1
+        }
+      ],
+      "total": 45,
+      "timestamp": "2024-12-18T08:58:18.350Z"
+    }
+  ]
+}
