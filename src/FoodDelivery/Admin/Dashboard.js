@@ -9,7 +9,7 @@ import Bookinguser from './Bookinguser';
 
 const Dashboard = () => {
   const [view, setView] = useState("");
-  const [login, setLogin] = useContext(LoginStatus);
+ const [login] = useState(false);;
 
   const DashboardView = useMemo(() => {
     console.log("function Executed");

@@ -6,7 +6,7 @@ const About = () => {
   return (
     <section>
       <div className="card text-bg-dark">
-        <img src='https://indiarestaurant.co.in/assets/images/backgrounds/ABOUT-1.jpg' className="card-img" alt="..." />
+        <img src='https://indiarestaurant.co.in/assets/images/backgrounds/ABOUT-1.jpg' className="card-img" alt="About Us" />
         <div className="card-img-overlay restaurant-center ">
           <div className='text-center'>
             <h1 className="card-text">Our Story</h1>
@@ -26,7 +26,7 @@ const About = () => {
           <div className='col-12 col-md-6'>
             <div className='text-center p-5 text-middle bg-light'>
               <div className='home-welcome'>
-                <img src={logo} className='text-center w-25' />
+                <img src={logo} className='text-center w-25'alt="AboutUs" />
                 <p>Haji Syed Mohammad Kalim built a small eatery more than 40 years ago to provide lip-smacking Mughlai dishes at pocket-friendly prices.
                   The place garnered immense popularity in no time because they delivered palatable delicacies consistently at a very reasonable range.
                   Today the proprietors of India Restaurant, Syed Anwar Azeem, Syed Misbah Kalim, and Syed Shahmeer Kalim, took forward the legacy of their
@@ -38,7 +38,7 @@ const About = () => {
             </div>
           </div>
           <div className='col-12 col-md-6'>
-            <img src='https://indiarestaurant.co.in/assets/images/gallery/1.jpg' className="card-img" alt="..." />
+            <img src='https://indiarestaurant.co.in/assets/images/gallery/1.jpg' className="card-img" alt="About Us" />
           </div>
         </div>
       </div>
@@ -51,7 +51,7 @@ const About = () => {
             </div>
           </div>
           <div className='col-12 col-md-4 Vision'>
-            <img src='https://indiarestaurant.co.in/assets/images/backgrounds/vision-banner.jpg' className="card-img" alt="..." />
+            <img src='https://indiarestaurant.co.in/assets/images/backgrounds/vision-banner.jpg' className="card-img" alt="Vision" />
           </div>
           <div className='col-12 col-md-4 about Mission'>
             <div className='home-welcome text-center'>

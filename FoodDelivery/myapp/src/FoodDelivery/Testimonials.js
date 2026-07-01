@@ -19,7 +19,6 @@ const Testimonials = () => {
         autoplay: true,
         autoplayTimeout: 2000,
         autoplayHoverPause: true,
-        nav: false,
         dots: false,
         responsive: {
             0: {

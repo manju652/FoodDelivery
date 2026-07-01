@@ -37,13 +37,31 @@ const Contact = () => {
                   <h5>Follow Us</h5>
                   <div className='d-flex justify-content-start'>
                     <div>
-                      <a href="https://www.facebook.com/yourfacebookpage" target="_blank" ><img src={facebook} className='w-50' /></a>
+  <a
+  href="https://www.facebook.com/yourfacebookpage"
+  target="_blank"
+  rel="noreferrer"
+>
+    <img src={facebook} alt="Facebook" className="w-50" />
+</a>
                     </div>
                     <div>
-                      <a href="https://x.com/home?lang=en" target="_blank" ><img src={twitter} className='w-50' /></a>
+                      <a
+  href="https://x.com/home?lang=en"
+  target="_blank"
+  rel="noreferrer"
+>
+    <img src={twitter} alt="Twitter" className="w-50" />
+</a>
                     </div>
                     <div>
-                      <a href="https://www.instagram.com/" target="_blank" ><img src={instagram} className='w-50' /></a>
+                      <a
+  href="https://www.instagram.com/"
+  target="_blank"
+  rel="noreferrer"
+>
+    <img src={instagram} alt="Instagram" className="w-50" />
+</a>
                     </div>
                   </div>
                 </div>

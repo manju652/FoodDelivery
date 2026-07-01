@@ -6,7 +6,6 @@ import { LoginStatus } from '../../App';
 const AdminLogin = () => {
   const [username, setUsername] = useState("");
   const [password, setPassword] = useState("");
-  const [login, setLogin] = useContext(LoginStatus);
 
   const navigate = useNavigate();
   const loginCheck = (e) => {
