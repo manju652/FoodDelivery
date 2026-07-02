@@ -1,70 +1,319 @@
-# Getting Started with Create React App
+# 🍽️ FoodDelivery - Restaurant Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A modern and responsive restaurant website built using **React.js**. The application provides customers with an elegant interface to explore restaurant menus, book tables, browse galleries, and contact the restaurant. It also includes an Admin Dashboard for managing restaurant operations.
 
-## Available Scripts
+![React](https://img.shields.io/badge/React-18-blue?logo=react)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-5-purple?logo=bootstrap)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript)
+![License](https://img.shields.io/badge/License-MIT-green)
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## 🌐 Live Demo
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+🔗 **Live Website:** https://food-delivery-omega-tawny.vercel.app/
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+# 📖 Overview
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+FoodDelivery is a fully responsive restaurant website designed to provide an excellent user experience for customers while offering basic administrative functionality for restaurant management.
 
-### `npm run build`
+The application includes:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- Beautiful Landing Page
+- Restaurant Menu
+- Food Categories
+- Gallery
+- Online Table Booking
+- Contact Page
+- Testimonials
+- Admin Dashboard
+- Responsive Design
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# ✨ Features
 
-### `npm run eject`
+## 👨‍🍳 Customer Features
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- Home Page
+- About Restaurant
+- Restaurant Menu
+- Food Categories
+- Gallery
+- Gallery Details
+- Online Table Booking
+- Contact Information
+- Opening Hours
+- Customer Testimonials
+- Responsive UI
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## 👨‍💼 Admin Features
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- Admin Login
+- Dashboard
+- Add Restaurant Menu
+- View Restaurant Menu
+- Orders List
+- Booking Management
 
-## Learn More
+---
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+# 🛠️ Tech Stack
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Frontend
 
-### Code Splitting
+- React.js
+- JavaScript (ES6)
+- HTML5
+- CSS3
+- Bootstrap 5
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+### Libraries
 
-### Analyzing the Bundle Size
+- React Router DOM
+- Font Awesome
+- Owl Carousel
+- Animate.css
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+---
 
-### Making a Progressive Web App
+# 📂 Project Structure
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+```
+FoodDelivery
+│
+├── public/
+│
+├── src/
+│   ├── FoodDelivery/
+│   │   ├── Admin/
+│   │   ├── assets/
+│   │   ├── Home.js
+│   │   ├── About.js
+│   │   ├── Booking.js
+│   │   ├── Categories.js
+│   │   ├── Contact.js
+│   │   ├── Gallery.js
+│   │   ├── Testimonials.js
+│   │   └── ...
+│   │
+│   ├── App.js
+│   ├── index.js
+│   └── App.css
+│
+├── package.json
+└── README.md
+```
 
-### Advanced Configuration
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+# 🚀 Installation
 
-### Deployment
+## Clone Repository
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+```bash
+git clone https://github.com/manju652/FoodDelivery.git
+```
 
-### `npm run build` fails to minify
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Navigate into project
+
+```bash
+cd FoodDelivery/FoodDelivery/myapp
+```
+
+---
+
+## Install Dependencies
+
+```bash
+npm install
+```
+
+---
+
+## Run Development Server
+
+```bash
+npm start
+```
+
+Runs on
+
+```
+http://localhost:3000
+```
+
+---
+
+## Production Build
+
+```bash
+npm run build
+```
+
+---
+
+# 📱 Pages
+
+- 🏠 Home
+- 📖 About
+- 🍛 Menu
+- 🥗 Categories
+- 🖼 Gallery
+- 📷 Gallery Details
+- 📅 Booking
+- 📞 Contact
+- ⭐ Testimonials
+- 👨‍💼 Admin Login
+- 📊 Dashboard
+
+---
+
+# 🎨 UI Highlights
+
+- Fully Responsive
+- Modern Restaurant Theme
+- Smooth Animations
+- Bootstrap Layout
+- Carousel Slider
+- Professional Design
+- Interactive Components
+
+---
+
+# 📦 Dependencies
+
+```json
+react
+react-router-dom
+bootstrap
+animate.css
+@fortawesome/react-fontawesome
+@fortawesome/free-solid-svg-icons
+react-owl-carousel
+owl.carousel
+jquery
+```
+
+---
+
+# 🔐 Admin Credentials
+
+> **Demo Credentials**
+
+**Username**
+
+```
+Swapna
+```
+
+**Password**
+
+```
+kakarapalli
+```
+
+---
+
+# 📸 Screenshots
+
+## Home Page
+
+(Add Screenshot Here)
+
+---
+
+## Menu
+
+(Add Screenshot Here)
+
+---
+
+## Booking
+
+(Add Screenshot Here)
+
+---
+
+## Admin Dashboard
+
+(Add Screenshot Here)
+
+---
+
+# 📈 Future Enhancements
+
+- Authentication using Firebase/JWT
+- Payment Gateway Integration
+- Online Food Ordering
+- Order Tracking
+- Wishlist
+- Customer Login
+- Email Notifications
+- Backend Integration
+- MongoDB Database
+- REST APIs
+- Admin Analytics Dashboard
+
+---
+
+# 🤝 Contributing
+
+Contributions are welcome.
+
+1. Fork the repository
+2. Create your feature branch
+
+```bash
+git checkout -b feature-name
+```
+
+3. Commit your changes
+
+```bash
+git commit -m "Added new feature"
+```
+
+4. Push the branch
+
+```bash
+git push origin feature-name
+```
+
+5. Open a Pull Request
+
+---
+
+# 👨‍💻 Author
+
+## Manju Namana
+
+Computer Science Engineering Student
+
+GitHub:
+https://github.com/manju652
+
+LinkedIn:
+https://www.linkedin.com/in/manjunamana/
+
+---
+
+# ⭐ Support
+
+If you like this project, don't forget to ⭐ the repository.
+
+It motivates me to build more amazing projects.
+
+---
+
+# 📄 License
+
+This project is licensed under the MIT License.
+
+Feel free to use this project for learning and educational purposes.
