@@ -1,7 +1,5 @@
-import React, { useContext, useState } from 'react';
 import { useNavigate } from 'react-router-dom';
-import { LoginStatus } from '../../App';
-
+import React, { useState } from 'react';
 
 const AdminLogin = () => {
   const [username, setUsername] = useState("");
@@ -10,10 +8,9 @@ const AdminLogin = () => {
   const navigate = useNavigate();
   const loginCheck = (e) => {
     e.preventDefault()
-    if (username === "Swapna" && password === "kakarapalli") {
-      setLogin(true)
-      navigate("/dashboard")
-    }
+   if (username === "Swapna" && password === "kakarapalli") {
+  navigate("/dashboard");
+}
     else {
       alert("Invalid Credentials");
     }

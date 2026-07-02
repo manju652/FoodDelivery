@@ -1,5 +1,4 @@
-import React, { useContext, useMemo, useState } from 'react';
-import { LoginStatus } from '../../App';
+import React, { useMemo, useState } from 'react';
 import AdminLogin from './AdminLogin';
 import Welcome from './Welcome';
 import AddRestaurantMenu from './AddRestaurantMenu';
@@ -9,7 +8,7 @@ import Bookinguser from './Bookinguser';
 
 const Dashboard = () => {
   const [view, setView] = useState("");
- const [login] = useState(false);;
+ const [login] = useState(false);
 
   const DashboardView = useMemo(() => {
     console.log("function Executed");
